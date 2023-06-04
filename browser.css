@@ -1,0 +1,14 @@
+*{
+    padding:0px;   /*etiquete y sus border espacio */
+    margin:0px; /* espacio entre las etiqietes*/
+    box-sizing: border-box ; /*investigar*/
+}
+
+body{
+
+    background: #f9f9f7 url('img/background.png') repeat-x;
+    background-size: contain;
+    margin:0px auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
