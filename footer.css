@@ -1,0 +1,43 @@
+#footer{
+   
+    border-top: double; 
+    clear: both;/*investigar*/
+    width: 880px;
+    height:35px;
+    color: white;
+    background:#488000  ;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    margin:0px auto;
+    margin-top: 100px;
+    padding: 5px;
+   }
+
+#piePagina{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+
+#piePagina #piePag .pag
+{
+    padding: 0px 10px 0px 10px;
+    color: #FFF;
+    border-right: 1px solid #FFF;
+    text-decoration: none;
+    align-items: center;
+}
+
+#piePagina #piePag a:hover{ /*hover funciona para hacer cambio de tamano o agregar q haga cosas donde se posiciona el mouse*/
+    font-size:large;
+    font-weight: bold;
+   
+ }
+
+ #piePagina #piePag a.last{
+    border-right: 0px;
+ 
+ }
+

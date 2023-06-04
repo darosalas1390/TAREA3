@@ -1,0 +1,81 @@
+
+.articuloPrincipal #welcomeCostaRica{
+    float: right;
+    width: 600px;
+    padding: 10px 0px 0px 0px;
+    
+    
+}
+
+.articuloPrincipal #welcomeCostaRica h3{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: green;
+    
+}
+.articuloPrincipal #welcomeCostaRica p{
+    
+    padding-right: 10px;
+}
+
+img.floatleft{
+    float: left; 
+   
+}
+
+img.picA{ /*ESTO ES PARA LOS ICONOS*/
+    position: relative;/*INVESTIGAR es la mas importante*/
+    width: 210px; /*ancho*/
+    padding-right: 10px;
+    
+}
+
+
+#noticias{
+    width: 300px;
+    padding-top: 10px;
+    text-align:justify;
+    padding-left: 20px;
+    max-width: 100%;
+}
+
+#noticias h3{
+    color: green;
+    padding-top: 10px;
+}
+
+#relevantes{
+    width: 300px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+#relevantes p{
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#noticias p{
+    
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+img.picB{
+    position: relative;/*INVESTIGAR es la mas importante*/
+    top: -2px;/* subiendo LA POSICION*/
+    width: 60px; /*ancho*/
+    height: 60px;/*largo*/
+    padding: 8px; /*espacio entre los objetos*/
+    
+}
+
+p{
+    padding-top: 10px;
+    text-align: justify;
+    line-height: 23px;/*espacio entre lineas*/
+}
+
+
+
